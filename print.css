@@ -31,7 +31,7 @@ p {
 
 }
 
-.card{
+.melanzane{
   width:100%;
   height: 50%;
   border-color: black;
@@ -40,6 +40,32 @@ p {
   margin-bottom: 50px;
   float: left;
   background-image: url(parmigiana.jpeg);
+  background-position: center;
+  background-size: cover;
+}
+
+.calzone{
+  width:100%;
+  height: 50%;
+  border-color: black;
+  border-style: dashed;
+  border-radius: 20px;
+  margin-bottom: 50px;
+  float: left;
+  background-image: url(calzone.webp);
+  background-position: center;
+  background-size: cover;
+}
+
+.torta{
+  width:100%;
+  height: 50%;
+  border-color: black;
+  border-style: dashed;
+  border-radius: 20px;
+  margin-bottom: 50px;
+  float: left;
+  background-image: url(torta.jpeg);
   background-position: center;
   background-size: cover;
 }
